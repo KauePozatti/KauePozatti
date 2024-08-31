@@ -5,6 +5,8 @@
 
 ![Kauê GitHub stats](https://github-readme-stats.vercel.app/api?username=KauePozatti&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauePozatti&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
