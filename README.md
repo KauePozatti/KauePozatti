@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Kauê Douglas🤚🏼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauedouglas) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaue_dg_/)
 
 ![Kauê GitHub stats](https://github-readme-stats.vercel.app/api?username=KauePozatti&show_icons=true&theme=onedark)
